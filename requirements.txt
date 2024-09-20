@@ -1,3 +1,4 @@
+ffprobe
 pydub
 streamlit
 whisper
