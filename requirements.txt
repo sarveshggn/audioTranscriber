@@ -2,3 +2,4 @@ ffprobe
 pydub
 streamlit
 whisper
+openai-whisper
